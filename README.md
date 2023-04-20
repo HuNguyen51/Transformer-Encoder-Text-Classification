@@ -7,7 +7,7 @@
   - Chuyển dữ liệu từ nhiều file txt thành 1 file csv
 - Trong bài này mình sử dụng 2 model đã được train sẵn của vinai
   - một model dùng để tokenize văn bản (dùng để chuyển văn bản thành số)
-  - một model dùng để huấn luyện (huấn luyện model dự đoán các nhãn)
+  - một model dùng để huấn luyện (huấn luyện model dự đoán các nhãn)  
 Note: <a href='https://www.kaggle.com/code/hunguyen01/encoder/notebook'>bài này</a> mình sử dụng GPU P100 trên kaggle để chạy
 ## Chi tiết model
 - Đây là model encoder là một phần của cấu trúc transformer cụ thể là lớp encode
