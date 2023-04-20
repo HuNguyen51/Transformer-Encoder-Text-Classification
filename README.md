@@ -18,8 +18,7 @@
 ## Ví dụ về global max pooling
 - Ta có tensor(2,2,3)  
 [[[87, 22, 90],  
-[85, 88, 71]], 
-  
+[85, 88, 71]],  
 [[65, 64, 15],  
 [73, 99,  4]]]  
 - Sau khi pooling sẽ thành  
