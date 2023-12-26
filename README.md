@@ -37,7 +37,7 @@ Train_Full
   - text file 1
   - text file 2  
  
-Text_Full
+Test_Full
 - label 1
   - text file 1
   - text file 2
